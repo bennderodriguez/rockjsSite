@@ -1,0 +1,38 @@
+{
+    "Partner": "fila",
+    "emailPartner": "mail@mail.com",
+    "empresaPartner": "fila",
+    "name": "fila",
+    "email": "mail@mail.com",
+    "company": "fila",
+    "iam": "Salud",
+    "country": "M\u00e9xico",
+    "phone": "78589632",
+    "homepage": "fila",
+    "os": "fila",
+    "system_name": "fila",
+    "number_user": "1",
+    "version": "Comprado",
+    "type_technology": "Cliente\/Servidor",
+    "Fabricante": "",
+    "Modelo": "",
+    "Versi\u00f3n": "",
+    "programming_language": "fila",
+    "number_screen": "1",
+    "version_manager": "",
+    "use_satellite_systems": "",
+    "use_third_party_software": "",
+    "attention_schedule": "9",
+    "database_name": [
+        "Angel Angel"
+    ],
+    "database_version": [
+        "fila"
+    ],
+    "number_users": [
+        "1"
+    ],
+    "observations": [
+        ""
+    ]
+}

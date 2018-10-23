@@ -1,0 +1,4 @@
+27 02 2018 22:02:26 El Archivo logs.txt se ha creado
+27 02 2018 22:02:42 El Archivo logs.txt se ha modificado
+27 02 2018 22:02:01 El Archivo logs.txt se ha modificado
+27 02 2018 22:02:07 El Archivo logs.txt se ha modificado
