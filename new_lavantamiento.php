@@ -24,7 +24,7 @@ if ($errorMSG == "") {
     $myJSON = json_encode($age,JSON_PRETTY_PRINT);
     fwrite($configuration, $myJSON . $ln);
     fclose($configuration);
-    echo "success";
+    //echo "success";
     //header('Location: http://www.focusonservices.com/rockjs/rockjsinfo.php?r=1');
     header('Location: https://www.focusonservices.com/rockjs/rockjsinfo.php?r=1');
 } else {
